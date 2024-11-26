@@ -11,9 +11,14 @@
     <a href="/about">about</a>
     <a href="/blog">blog</a>
     <a href="/contact">contact</a>
-    <h3>Artikel 1</h3>
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem repellendus vero illum?</p>
-    <h3>Artikel 2</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nobis sunt voluptate.</p>
+    <article>
+        <h3>Artikel 1</h3>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem repellendus vero illum?
+    </article>
+
+    <article>
+        <h3>Artikel 2</h3>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nobis sunt voluptate.
+    </article>
 </body>
 </html>
